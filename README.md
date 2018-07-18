@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+Hi Humans!
+
+I am a valuation actuary on pension product.
+I like traveling.
+My favorite food is chocolate cake.
